@@ -5,3 +5,4 @@ authors = ["Levi McCallum <levi@levimccallum.com>"]
 
 [dependencies]
 bmp = "*"
+obj = "*"
